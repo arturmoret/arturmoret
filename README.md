@@ -25,7 +25,6 @@ I need to build things that mix software + creativity so my brain doesn't rot.
 - 🐕 I have 4 dogs
 - 📟 Love retro tech
 - ☕ Coffee person
-- ⚙️ Able to quickly self-learn new technologies 
   
 
 
