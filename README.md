@@ -1,4 +1,4 @@
-#### Hi there 👋
+### Hey there 👋
 
 I’m Artur Moret González, a Computer Science student based in Barcelona. 
 
@@ -8,7 +8,7 @@ I'm currently working on a little cute robot with personality that is aware of i
 
 ---
 
-#### Tools & Tech
+### Tools & Tech
 
 - **Languages:** Python, C++, C, Assembly, R, SQL, JavaScript, HTML, CSS, PHP
 - **Libraries & Frameworks:**
@@ -20,7 +20,7 @@ I'm currently working on a little cute robot with personality that is aware of i
 
 --- 
 
-#### A bit about me
+### A bit about me
 
 - I have 4 dogs
 - Really loving retro tech
