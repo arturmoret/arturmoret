@@ -22,10 +22,10 @@ I'm currently working on a little cute robot with personality that is aware of i
 
 ### A bit about me
 
-- I have 4 dogs
-- Really loving retro tech
-- Coffee person
-- Able to quickly self-learn new technologies 
+- 🐕 I have 4 dogs
+- 📟 Really loving retro tech
+- ☕ Coffee person
+- ⚙️ Able to quickly self-learn new technologies 
   
 
 
