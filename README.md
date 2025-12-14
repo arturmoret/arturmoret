@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-I’m Artur Moret González, a Computer Science student based in Barcelona. 
+I’m Artur, a Computer Science student based in Barcelona. 
 
 I love building things that mix software + creativity, so my brain doesn't rot.
 
