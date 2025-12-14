@@ -4,7 +4,9 @@ I’m Artur, a Computer Science student based in Barcelona.
 
 I love building things that mix software + creativity, so my brain doesn't rot.
 
-I'm currently working on a little cute robot with personality that is aware of its surroundings and a very particular-looking 3D escape room.
+I'm currently working on a little cute robot with personality that is aware of its surroundings.
+
+Also working on a very particular-looking 3D escape room.
 
 ---
 
